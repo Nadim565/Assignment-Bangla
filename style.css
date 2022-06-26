@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 90%;
+    background-color: antiquewhite;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h2 {
+    background-color: teal;
+    width: 60%;
+    /* margin: auto; */
+    color: white;
+    font-size: 25px;
+    margin: 30px auto;
+}
+
+.div-01,
+.div-02,
+.div-03,
+.div-04,
+.div-05,
+.div-06,
+.div-07,
+.div-08 {
+    margin: 30px auto;
+    background-color: hotpink;
+    width: 90%;
+    text-align: center;
+    color: white;
+    padding: 19px;
+}
+
+.nadim {
+    height: 20px;
+    width: 30%;
+    background-color: teal;
+    margin: 30px auto;
+    text-align: center;
+    padding: 50px;
+    font-size: 32px;
+    color: hotpink;
+}
+
+.nadim :hover {
+    background-color: white;
+}
